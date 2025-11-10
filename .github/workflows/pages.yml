@@ -28,6 +28,9 @@ jobs:
     # conteneurs Docker, on doit utiliser un runner Linux/Ubuntu.
     runs-on: ubuntu-latest
 
+    # On utilise ici le conteneur Docker fourni par Sonny
+    container: docker://gitlab-registry.in2p3.fr/sonny.lion/astro-chef:1.0.0
+
     # Les étapes indiquent les actions à effectuer, sous forme de séquence
     steps:
       # Certaines actions sont effectuées par des modules prêts à l'emploi,
@@ -39,7 +42,6 @@ jobs:
       # ...tandis que d'autres exécutent un script spécifié par l'utilisateur,
       # ici du bash exécuté au sein d'une image Docker préparée par Sonny
       - name: Construction du site web
-        uses: docker://gitlab-registry.in2p3.fr/sonny.lion/astro-chef:1.0.0
         run: |
           # On déplace les recettes à l'endroit attendu par astro-chef
           - cp -r ./recettes $APP_DIR/recettes
