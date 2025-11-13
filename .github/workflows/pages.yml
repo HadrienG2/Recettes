@@ -36,7 +36,7 @@ jobs:
       # URL du style https://hadrieng2.github.io/recettes/ et pas
       # https://recettes-abcdef.github.io/ comme le fait GitLab dans sa
       # configuration par défaut, ce qui casse les chemins de fichiers absolus.
-      BASE_URL: "/Recettes"
+      BASE_URL: "/recettes"
 
     # Les étapes indiquent les actions à effectuer, sous forme de séquence
     steps:
