@@ -15,37 +15,27 @@ tags:
   - semi-rapide
   - épicé
 image: null
-
-#Ingredients:
-
-
+ingredients:
   - 200 g de haricots verts fins, équeutés
   - 6 oignons verts, coupés en trois dans la hauteur (75 g)
   - 200 g de tomates cerises de couleurs variées, coupées en deux
   - 6 pavés de saumon avec la peau (environ 720 g)
   - Sel et poivre noir
-
-##Huile parfumée:
-
-   - 8,5 cl d'huile d'olive
-   - 8 anchois, finement hachés
-   - 1 c. à s. de concentré de tomates
-   - 1 c. à c. de flocons de piment
-   - 2 c. à c. de graines de coriandre, grossièrement pilées
-   - 8 gousses d'ail, tranchées très finement
-   - 2 citrons confits: retirez la chair et détaillez la peau en julienne (20 g)
-   - 2 c. à c. de sirop d'érable
-
-##Salsa:
-
-   - 60 g d'olives de Kalamata dénoyautées, coupées en deux
-   - 60 g de câpres, grossièrement hachées
-   - 1 citron confit: retirez la chair et détaillez la peau en julienne (10 g)
-   - 10 g de feuilles de basilic, grossièrement hachées
-   - 10 g de feuilles de persil, grossièrement hachées
-   - 2 c. à s. d'huile d'olive
-   - 2 c. à c. de jus de citron
-
+  - 8,5 cl d'huile d'olive
+  - 8 anchois, finement hachés
+  - 1 c. à s. de concentré de tomates
+  - 1 c. à c. de flocons de piment
+  - 2 c. à c. de graines de coriandre, grossièrement pilées
+  - 8 gousses d'ail, tranchées très finement
+  - 2 citrons confits: retirez la chair et détaillez la peau en julienne (20 g)
+  - 2 c. à c. de sirop d'érable
+  - 60 g d'olives de Kalamata dénoyautées, coupées en deux
+  - 60 g de câpres, grossièrement hachées
+  - 1 citron confit: retirez la chair et détaillez la peau en julienne (10 g)
+  - 10 g de feuilles de basilic, grossièrement hachées
+  - 10 g de feuilles de persil, grossièrement hachées
+  - 2 c. à s. d'huile d'olive
+  - 2 c. à c. de jus de citron
 ---
 
 # Préparation
