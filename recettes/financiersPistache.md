@@ -1,5 +1,5 @@
 ---
-titre: "Financiers pistaches"
+titre: "Financiers à la pistache"
 description: "Alternative aux financiers classiques."
 auteur: "ASM"
 date: 2025-11-20
