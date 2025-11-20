@@ -29,5 +29,5 @@ conseils:
 1. Mélangez tous les ingrédients sauf les œufs
 2. Battez les blancs en neige.
 3. Incorporez delicatement les blancs en neige au mélange précédent.
-4. Faites cuire au four préchauffé à 160° pendant 20 min
+4. Faites cuire au four préchauffé à 160°C pendant 20 min
 
