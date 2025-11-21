@@ -22,7 +22,7 @@ ingredients:
   - "20g de beurre"
   - "50 cl de lait"
 conseils:
-  - "Utiliser les restes de pains et parfumer avec ce que vous aimez : canelle, cardamome..."
+  - "Utiliser les restes de pains et parfumer avec ce que vous aimez : cannelle, cardamome..."
 ---
 
 # Préparation
