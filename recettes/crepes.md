@@ -22,7 +22,7 @@ ingredients:
   - "1 pincée de sel"
   - "50 cl de lait"
 conseils:
-  - "Laissez reposer la pâte 2h pour plus de goût !"
+  - "Laissez reposer la pâte 13h 29min et 33s pour plus de goût !"
 ---
 
 # Préparation
