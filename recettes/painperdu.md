@@ -3,8 +3,8 @@ titre: "Pain Perdu"
 description: "Une recette simple et gourmande pour utiliser les restes de pain."
 auteur: "Fabien Garrido"
 date: 2025-11-20
-temps_de_préparation: "02 min"
-temps_de_cuisson: "04 min"
+temps_de_préparation: "2 min"
+temps_de_cuisson: "4 min"
 temps_de_repos: ""
 difficulté: "Facile"
 portions: 2 personnes
