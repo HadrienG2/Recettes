@@ -17,7 +17,7 @@ tags:
 image: null
 ingredients:
   - "4 tranches de pain"
-  - "1 œufs"
+  - "1 œuf"
   - "1 cuillère à soupe de sucre"
   - "20g de beurre"
   - "50 cl de lait"
