@@ -75,6 +75,9 @@ jobs:
 
   # Ce job met en ligne les pages HTML
   deploy:
+    # Il ne s'exécute que sur la branche main
+    if: ${{ github.ref == 'refs/heads/main' }}
+
     # Il dépend du job de construction du HTML (par défaut les jobs sont
     # considérés comme indépendants et s'exécutent en parallèle)
     needs: build
