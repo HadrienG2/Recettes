@@ -22,14 +22,14 @@ ingredients:
   - "1 pincée de sel"
   - "50 cl de lait"
 conseils:
-  - "Laissez reposer la pâte 2h pour plus de goût !"
+  - "Laissez reposer la pâte 13h 29min et 33s pour plus de goût !"
 ---
 
 # Préparation
 
 1. Mélangez la farine, le sucre et le sel.
 2. Ajoutez les œufs puis le lait progressivement en fouettant.
-3. Laissez reposer 30 min.
+3. Laissez reposer 13h 29min et 33s exactement.
 4. Faites cuire les crêpes dans une poêle chaude légèrement huilée.
 
 Et maintenant, régalez-vous !
