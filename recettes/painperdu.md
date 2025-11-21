@@ -27,6 +27,6 @@ conseils:
 
 # Préparation
 
-1. Casser l'oeuf dans une assiette creuse. Mélanger avec le lait et le sucre.
+1. Casser l'œuf dans une assiette creuse. Mélanger avec le lait et le sucre.
 2. Tremper le pain dans le mélange, retourner la tranche dans le mélange.
 3. Faire fondre le beurre dans une poêle. Déposer les tranches de pain et cuire 2 minutes à feu doux. Retourner les tranches et cuire 2 minutes à nouveau.
